@@ -1,2 +1,0 @@
-mx/com/gm/HolaSpringApplication.java
- mx.com.gm.HolaSpringApplication
